@@ -13,7 +13,6 @@ public class UserServiceApplication {
 
 
 	public static void main(String[] args) {
-		System.out.println("test::::::::::::");
 		SpringApplication.run(UserServiceApplication.class, args);
 	}
 	
